@@ -1,0 +1,6 @@
+import org.apache.zookeeper.server.quorum.LearnerHandler.SyncLimitCheck;
+public class FunctionUse3041 {
+public void funcUse() {
+SyncLimitCheck synclimitcheck = new SyncLimitCheck();
+}
+}
